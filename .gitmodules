@@ -30,3 +30,6 @@
 [submodule "plugins/kafka_plugin"]
 	path = plugins/kafka_plugin
 	url = https://github.com/eosaction/kafka_plugin.git
+[submodule "libraries/wabt"]
+	path = libraries/wabt
+	url = http://github.com/EOSIO/wabt
